@@ -57,10 +57,7 @@
         app:layout_constraintVertical_bias="1.0">
 
 
-        <TableRow
-            android:id="@+id/myTableRow"
-            android:layout_width="match_parent"
-            android:layout_height="match_parent" />
+
     </TableLayout>
 
 </androidx.constraintlayout.widget.ConstraintLayout>

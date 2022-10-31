@@ -13,7 +13,7 @@
         android:theme="@style/Theme.Assignemnts"
         tools:targetApi="31">
         <activity
-            android:name=".MainActivityLab4"
+            android:name=".CreateAccount"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
